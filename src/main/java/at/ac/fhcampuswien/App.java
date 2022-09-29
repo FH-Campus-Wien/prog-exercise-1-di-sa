@@ -58,7 +58,7 @@ public class App {
     public static void main(String[] args){
         App exercise1 = new App();
 
-        System.out.println("Task 1: Say Hello World");
+        System.out.println("Task 1: Say Hello world");
         exercise1.sayHelloWorld();
 
         System.out.println("\nTask 2: Hello Robot");
