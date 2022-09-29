@@ -7,6 +7,7 @@ public class App {
     //todo Task 1
     public void sayHelloWorld(){
         // input your solution here
+        System.out.println("Hello World!");
     }
 
     //todo Task 2
@@ -58,7 +59,7 @@ public class App {
     public static void main(String[] args){
         App exercise1 = new App();
 
-        System.out.println("Task 1: Say Hello world");
+        System.out.println("Task 1: Say Hello World");
         exercise1.sayHelloWorld();
 
         System.out.println("\nTask 2: Hello Robot");
